@@ -7,11 +7,11 @@
 [![Website](https://img.shields.io/badge/jaikin.eu-000?style=flat-square&logo=safari&logoColor=white)](https://jaikin.eu)
 [![Location](https://img.shields.io/badge/France-000?style=flat-square&logo=google-maps&logoColor=white)]()
 
+</div>
+
 ---
 
 **What I build** · AI-powered automation · Scalable architectures · Operational leverage
-
----
 
 ![Ruby](https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white)
 ![Rails](https://img.shields.io/badge/Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
@@ -26,17 +26,15 @@
 
 `RAG` `Embeddings` `OCR` `LLMs` `Agents` `n8n` `APIs` `MCP`
 
----
-
 **Focus** · AI agents · Automation for SMEs · Scalable consulting
 
----
-
 | 💬 WhatsApp Assistant | 🌍 Nexus | 🖥️ Deskless |
-|:---:|:---:|:---:|
+|---|---|---|
 | Personal AI assistant | Conflict monitoring & OSINT | Claude Code terminal |
 
 ---
+
+<div align="center">
 
 *Building the future, one automation at a time* ⚡
 
