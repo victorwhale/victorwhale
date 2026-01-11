@@ -26,7 +26,7 @@
 
 **Focus** · AI agents · Automation for SMEs · Scalable consulting
 
-| 💬 WhatsApp Assistant | 🌍 Nexus | 🖥️ Deskless |
+| [💬 WhatsApp Assistant](https://github.com/victorwhale/n8n-whatsapp-ai-agent) | [🌍 Nexus](https://github.com/victorwhale/nexus-app) | 🖥️ Deskless |
 |:---:|:---:|:---:|
 | Personal AI assistant | Conflict monitoring & OSINT | Claude Code terminal |
 
