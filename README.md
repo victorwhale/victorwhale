@@ -22,22 +22,10 @@ Former Military Intelligence · Wealth Management Analyst (UBS) · Le Wagon Alum
 
 <div align="center">
 
-### What I build
-
-GenAI integration · Financial dashboards · Web applications · Secure infrastructure
-
-</div>
-
-<br>
-
-<div align="center">
-
 <img src="https://github-readme-streak-stats.herokuapp.com?user=victorwhale&theme=github-dark-blue&hide_border=true&date_format=j%20M%5B%20Y%5D&ring=58A6FF&fire=58A6FF&currStreakLabel=58A6FF" width="49%" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorwhale&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="40%" />
 
 </div>
-
-<br>
 
 ---
 
@@ -115,9 +103,7 @@ GenAI integration · Financial dashboards · Web applications · Secure infrastr
 
 <div align="center">
 
-### Day-to-day
-
-Identifying & delivering high-impact GenAI use cases · Building dashboards & BI pipelines · Shipping web apps from prototype to production
+*Identifying & delivering high-impact GenAI use cases · Building dashboards & BI pipelines · Shipping web apps from prototype to production*
 
 <br>
 
