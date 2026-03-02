@@ -2,9 +2,7 @@
 
 # Victor Gless-Krumhorn
 
-Founder of **[JAIKIN](https://jaikin.eu)** · Former Military Intelligence · WM Analyst (UBS) · Le Wagon Alumni
-<br>
-France | Germany | Switzerland · Trilingual FR / EN / DE
+Founder of **[JAIKIN](https://jaikin.eu)** · Former Military Intelligence · WM Analyst (UBS) · Trilingual FR / EN / DE
 
 [![Website](https://img.shields.io/badge/jaikin.eu-58A6FF?style=for-the-badge&logo=safari&logoColor=white)](https://jaikin.eu)
 
