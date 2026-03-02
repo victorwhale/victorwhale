@@ -55,10 +55,6 @@ GenAI integration · Financial dashboards · Web applications · Secure infrastr
 ![Claude](https://img.shields.io/badge/Claude-191919?style=for-the-badge&logo=anthropic&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 
-<br>
-
-`RAG` `pgvector` `Semantic Search` `Multi-LLM` `LLM Agents` `MCP Servers` `ETL Pipelines` `Embeddings` `Streaming SSE` `OCR` `APIs`
-
 </div>
 
 ---
@@ -103,10 +99,6 @@ GenAI integration · Financial dashboards · Web applications · Secure infrastr
 ---
 
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victorwhale&layout=compact&theme=github_dark&hide_border=true&title_color=58A6FF&text_color=c9d1d9&bg_color=0d1117&langs_count=8" width="45%" />
-
-<br><br>
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=victorwhale&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=58A6FF" width="95%" />
 
