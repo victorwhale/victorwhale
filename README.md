@@ -2,7 +2,6 @@
 
 # Victor GK
 
-Founder of **[JAIKIN](https://jaikin.eu)** · Former Military Intelligence · WM Analyst (UBS) · Trilingual FR / EN / DE
 
 [![Website](https://img.shields.io/badge/jaikin.eu-58A6FF?style=for-the-badge&logo=safari&logoColor=white)](https://jaikin.eu)
 
