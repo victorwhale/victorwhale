@@ -45,7 +45,7 @@ GenAI integration · Financial dashboards · Web applications · Secure infrastr
 <td width="33%" valign="top">
 
 **🔒 Security**
-<br>CSRF double-submit · CSP nonces · Redis rate limiting · JWT refresh rotation · OAuth2 · RBAC · HMAC-SHA256 · ClamAV scanning · MIME magic-bytes · Zod validation · Audit logging
+<br>CSRF double-submit · CSP nonces · Redis rate limiting · JWT refresh rotation · OAuth2 · RBAC · HMAC-SHA256 · ClamAV scanning · MIME magic-bytes · Audit logging
 
 </td>
 <td width="33%" valign="top">
