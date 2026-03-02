@@ -4,35 +4,17 @@
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=550&lines=AI+Enablement+%26+Software+Development;GenAI+Integration+%7C+Financial+Dashboards;Web+Apps+%7C+Automation+Pipelines;Shipping+Production+Code+Daily" alt="Typing SVG" />
 
-<br>
-
 [![Website](https://img.shields.io/badge/jaikin.eu-58A6FF?style=for-the-badge&logo=safari&logoColor=white)](https://jaikin.eu)
 [![Location](https://img.shields.io/badge/FR+%7C+DE+%7C+CH-1a1b27?style=for-the-badge&logo=google-maps&logoColor=58A6FF)]()
 [![Languages](https://img.shields.io/badge/FR+%2F+EN+%2F+DE-1a1b27?style=for-the-badge&logo=translate&logoColor=58A6FF)]()
 
-<br>
-
 **Founder of [JAIKIN](https://jaikin.eu)** — AI & Software Development
 <br>
 Former Military Intelligence · Wealth Management Analyst (UBS) · Le Wagon Alumni
-
-</div>
-
----
-
-<div align="center">
-
-### What I build
-
+<br><br>
 GenAI integration · Financial dashboards · Web applications · Secure infrastructure
 
-</div>
-
 ---
-
-<div align="center">
-
-### Tech Stack
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
@@ -62,34 +44,20 @@ GenAI integration · Financial dashboards · Web applications · Secure infrastr
 <tr>
 <td width="33%" valign="top">
 
-### 🧠 AI & GenAI
-
-- Custom RAG pipelines (pgvector + embeddings)
-- Multi-LLM provider architecture (OpenAI, Claude, Gemini)
-- Autonomous agents
-- Human-in-the-loop design
+**🧠 AI & GenAI**
+<br>Custom RAG pipelines (pgvector + embeddings) · Multi-LLM architecture (OpenAI, Claude, Gemini) · Autonomous agents · Human-in-the-loop design
 
 </td>
 <td width="33%" valign="top">
 
-### 🔒 Security
-
-- CSRF double-submit · CSP nonces
-- Redis rate limiting · JWT refresh rotation
-- OAuth2 · RBAC · HMAC-SHA256
-- ClamAV scanning · MIME magic-bytes
-- Zod validation · Audit logging
+**🔒 Security**
+<br>CSRF double-submit · CSP nonces · Redis rate limiting · JWT refresh rotation · OAuth2 · RBAC · HMAC-SHA256 · ClamAV scanning · MIME magic-bytes · Zod validation · Audit logging
 
 </td>
 <td width="33%" valign="top">
 
-### ⚙️ Architecture
-
-- Monorepo workspaces · SSR / SSG
-- State machines · Streaming SSE
-- Cloudinary CDN · Stripe payments
-- Row-level locking · Streaming ZIP
-- Cron jobs · i18n
+**⚙️ Architecture**
+<br>Monorepo workspaces · SSR / SSG · State machines · Streaming SSE · Cloudinary CDN · Stripe payments · Row-level locking · Streaming ZIP · Cron jobs · i18n
 
 </td>
 </tr>
@@ -100,8 +68,6 @@ GenAI integration · Financial dashboards · Web applications · Secure infrastr
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=victorwhale&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=58A6FF" width="95%" />
-
-<br>
 
 *Building and shipping every day — because the market doesn't wait* ⚡
 
