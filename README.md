@@ -2,16 +2,12 @@
 
 # Victor Gless-Krumhorn
 
-**AI Enablement & Software Development**
+Founder of **[JAIKIN](https://jaikin.eu)** · Former Military Intelligence · WM Analyst (UBS) · Le Wagon Alumni
 
 [![Website](https://img.shields.io/badge/jaikin.eu-58A6FF?style=for-the-badge&logo=safari&logoColor=white)](https://jaikin.eu)
 [![Location](https://img.shields.io/badge/FR+%7C+DE+%7C+CH-1a1b27?style=for-the-badge&logo=google-maps&logoColor=58A6FF)]()
 [![Languages](https://img.shields.io/badge/FR+%2F+EN+%2F+DE-1a1b27?style=for-the-badge&logo=translate&logoColor=58A6FF)]()
 
-**Founder of [JAIKIN](https://jaikin.eu)** — AI & Software Development
-<br>
-Former Military Intelligence · Wealth Management Analyst (UBS) · Le Wagon Alumni
-<br><br>
 GenAI integration · Financial dashboards · Web applications · Secure infrastructure
 
 ---
