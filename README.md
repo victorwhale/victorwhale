@@ -62,6 +62,6 @@ GenAI integration · Financial dashboards · Web applications · Secure infrastr
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=victorleongk&theme=github-compact&hide_border=true&area=true&color=58A6FF&line=58A6FF&point=58A6FF" width="95%" />
 
-*Building and shipping every day — because the market doesn't wait* ⚡
+*Building and shipping every day — because the market doesn't wait*
 
 </div>
